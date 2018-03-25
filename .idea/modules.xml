@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android-database-sqlcipher-3.5.9/android-database-sqlcipher-3.5.9.iml" filepath="$PROJECT_DIR$/android-database-sqlcipher-3.5.9/android-database-sqlcipher-3.5.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_simple/app_simple.iml" filepath="$PROJECT_DIR$/app_simple/app_simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/cwac-saferoom.iml" filepath="$PROJECT_DIR$/cwac-saferoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/saferoom/saferoom.iml" filepath="$PROJECT_DIR$/saferoom/saferoom.iml" />
     </modules>
