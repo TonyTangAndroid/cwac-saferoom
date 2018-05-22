@@ -1,3 +1,3 @@
 include ':android-database-sqlcipher-3.5.9'
-include ':app_simple'
+//include ':app_simple'
 include ':saferoom'

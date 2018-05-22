@@ -22,7 +22,7 @@ android {
     }
 }
 
-def roomVer="1.1.0"
+def roomVer="1.1.1-rc1"
 
 dependencies {
     api project (':android-database-sqlcipher-3.5.9')
